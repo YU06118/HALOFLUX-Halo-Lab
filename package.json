@@ -1,0 +1,15 @@
+{
+  "name": "haloflux-desktop",
+  "productName": "HALOFLUX 光环实验室",
+  "version": "1.0.0",
+  "description": "HALOFLUX 论文实验室控制台桌面版（基于 Electron 封装）",
+  "main": "main.js",
+  "author": "modified from HALOFLUX by Ryder191 (PolyForm Noncommercial 1.0.0)",
+  "license": "PolyForm-Noncommercial-1.0.0",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^45.3.3"
+  }
+}
